@@ -2,4 +2,5 @@
 
 ##嵌入式系統課程公告與說明
 https://ivory-gaura-57e.notion.site/60d63bcefee14a7b81b443ac83f99954
-![image](https://user-images.githubusercontent.com/89329219/130342098-88436917-e406-4ee0-90fe-d8d68f380366.png)
+![image](https://user-images.githubusercontent.com/89329219/131237171-7f583477-bc54-45df-9329-fd9b1b55ffce.png)
+
