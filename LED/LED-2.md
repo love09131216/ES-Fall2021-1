@@ -45,4 +45,6 @@ void loop()
 	analogWrite(B, 255);
   	delay(1000);  
 }
-````       
+````   
+![image](https://user-images.githubusercontent.com/89329219/132115140-cc835314-45aa-424d-a7b9-aa057e561889.png)
+
