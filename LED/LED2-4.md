@@ -21,3 +21,24 @@ void loop()
 ````
 ## 加上LED
 ![image](https://user-images.githubusercontent.com/89329219/132971760-9e3654f1-bce8-4ee8-9539-ee366d749d5e.png)
+## digitalRead(): 按鍵 + 序列監視器與輸出說明
+![image](https://user-images.githubusercontent.com/89329219/132972051-bb7fd294-97bf-4ace-a612-ac5a56189395.png)
+````C
+int buttonState = 0;
+
+void setup()
+{
+  pinMode(2, INPUT);
+  Serial.begin(9600);
+
+}
+
+void loop()
+{
+  // read the input pin
+  buttonState = digitalRead(2);
+  // print out the state of the button
+  Serial.println(buttonState);
+  delay(10); // Delay a little bit to improve simulation performance
+}
+````
