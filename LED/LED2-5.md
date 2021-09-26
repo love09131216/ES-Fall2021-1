@@ -1,5 +1,7 @@
 # B5 實作2-5: 按下按鍵, Green LED亮 & Red LED滅; 放開按鍵, Green LED滅 & Red LED亮 (思考方向: digitalRead(), digitalWrite(): 按鍵 +序列輸出 + LED), (互動5) 
 ![image](https://user-images.githubusercontent.com/89329219/134792142-019fb639-d32c-4242-bd49-730ceb6ae8bc.png)
+![image](https://user-images.githubusercontent.com/89329219/134792724-2a4e81c0-bb57-4c3d-af4c-8e8e3b92a98b.png)
+
 ````C
 int buttonState = 0;
 int GLED = 13;
